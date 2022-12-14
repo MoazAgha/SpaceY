@@ -1,4 +1,4 @@
-# SpaceY
+# Space Y
 A capstone project for the IBM Data Science Certificate. The project is related to a competitor of Space X, where we will apply data science skills as a Data scientist for this private space launch company. We will be tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully. The process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.  
 
 Objectives: 
